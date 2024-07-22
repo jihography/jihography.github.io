@@ -1,7 +1,8 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: "About Me"
+permalink: /about/
+categories: about
 ---
 
 Jiho Kwak is an undergraduate student majoring in Geography and Statistics at Seoul National University.
