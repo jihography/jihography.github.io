@@ -1,7 +1,7 @@
 ---
 title: "Parking Facility Location Optimization in Gangnam-gu based on Illegal Parking Data"
 collection: publications
-category: manuscripts
+category: book
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Best Student Project from the course <Computer Cartography> (Supervisor: Gunhak Lee).'
 date: 2022-04-06
