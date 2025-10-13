@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# 📚 Courses & Lecture Materials
-
 Welcome to my course archive.  
 Here are the classes I’ve taken and related materials.
 
