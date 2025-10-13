@@ -12,9 +12,12 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/   
+
+  - title: "Misc."
+    url: /courses/
         
-  - title: "Others"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
