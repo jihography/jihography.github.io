@@ -37,7 +37,29 @@ Here are the classes I’ve taken and related materials.
 - 📄 [Midterm (PDF)](materials/macroeconomics_mid.pdf)
 - 📄 [Final (PDF)](materials/macroeconomics_fin.pdf)
 
+### 지리공간의 역사와 사상 (History of Geographical Science and Thoughts)
+- Semester: Fall 2023
+- 📄 [Midterm (PDF)](materials/histgeo_mid.pdf)
+- 📄 [Final (PDF)](materials/histgeo_fin.pdf)
+
+### 공간분석과 지리교육 (Spatial Analysis and Geography Education)
+- Semester: Fall 2023
+- 📄 [Final (PDF)](materials/spatial_analysis_fin.pdf)
+
+### 스마트도시의 지리학 (Geography of Smart Cities)
+- Semester: Fall 2023
+- 📄 [Final (PDF)](materials/smart_cities_fin.pdf)
+
 ### 자료분석 및 실습 (Data Analysis and Lab)
 - Semester: Fall 2023  
 - 📄 [Midterm (PDF)](materials/data_analysis_mid.pdf)
 - 📄 [Final (PDF)](materials/data_analysis_fin.pdf)
+
+### 해석개론 (Mathematical Analysis)
+- Semester: Fall 2023  
+- 📄 [Midterm (PDF)](materials/math_analysis_mid.pdf)
+- 📄 [Final (PDF)](materials/math_analysis_fin.pdf)
+
+### 자원론 (Geography of Resources)
+- Semester: Spring 2024  
+- 📄 [Final (PDF)](materials/resources_fin.pdf)
