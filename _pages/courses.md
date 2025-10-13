@@ -63,3 +63,27 @@ Here are the classes I’ve taken and related materials.
 ### 자원론 (Geography of Resources)
 - Semester: Spring 2024  
 - 📄 [Final (PDF)](materials/resources_fin.pdf)
+
+### 수리통계 1 (Mathematical Statistics 1)
+- Semester: Spring 2024    
+- 📄 [Final (PDF)](materials/math_stat_fin.pdf)
+
+### 회귀분석 및 실습 (Regression Analysis and Lab)
+- Semester: Spring 2024    
+- 📄 [Midterm 1 (PDF)](materials/reg_mid1.pdf)
+- 📄 [Midterm 2 (PDF)](materials/reg_mid2.pdf)
+- 📄 [Final (PDF)](materials/reg_fin.pdf)
+
+### 계량경제학 (Econometrics)
+- Semester: Spring 2025   
+- 📄 [Midterm (PDF)](materials/econometrics_mid.pdf)
+- 📄 [Final (PDF)](materials/econometrics_fin.pdf)
+
+### 공간정보분석 1: 통계모형 (Spatial Analytics 1: Statistical Modeling)
+- Semester: Spring 2025   
+- 📄 [Midterm (PDF)](materials/econometrics_mid.pdf)
+- 📄 [Final (PDF)](materials/econometrics_fin.pdf)
+
+### 시계열분석 및 실습 (Time Series Analysis and Lab)
+- Semester: Spring 2025   
+- 📄 [Final (PDF)](materials/geostat1_fin.pdf)
