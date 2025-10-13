@@ -14,9 +14,10 @@ Here are the classes I’ve taken and related materials.
 
 ---
 
-### 전산통계 및 실습 (Computational Statistics and Practice)
+### 인구지리학개론 (Introduction to Population Geography)
 - Semester: Spring 2024  
-- 📄 [Final Report (PDF)](materials/computational_statistics_report.pdf)
+- 📄 [Midterm (PDF)](materials/popgeo_mid.pdf)
+- 📄 [Final (PDF)](materials/popgeo_fin.pdf)
 
 ### 공간통계학 (Spatial Statistics)
 - Semester: Fall 2024  
