@@ -9,9 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.A. in Geography, B.S. in Statistics (Double Major), Seoul National University, 2026 (expected)
-* Seoul Global High School, 2020
-
+Please find the attached file: 📄 [CV_Jiho_Kwak (updated: 2025 Mar)](materials/cv_jihokwak.pdf)
 
