@@ -106,11 +106,11 @@ Here are some selected reports I have written for courses and competitions.
 
 ### 2024 다전공 수기 공모전 (2024 Multidisciplinary Major Essay Contest)
 - 🏆 2nd Place
-- Title: [From Geography to Spatial Data Science: What I Learned as My Horizons Broadened](materials/major_essay.pdf)
+- Title: [From Geography to Spatial Data Science](materials/major_essay.pdf)
 
 ### 공간데이터분석과 지리교육 (Spatial Data Analysis and Geography Education)
 - Semester: Spring 2025
-- Title: [Analyzing the Spatial Heterogeneity of Fertility Determinants Using Similarity Geo-graphically Weighted Regression (SGWR)](materials/sda_sgwr.pdf)
+- Title: [Analyzing the Spatial Heterogeneity of Fertility Determinants Using Similarity Geographically Weighted Regression (SGWR)](materials/sda_sgwr.pdf)
 
 ### 학생자율연구 1: 탐구 (Undergraduate Independent Research: Inquiry)
 - Semester: Summer 2025
