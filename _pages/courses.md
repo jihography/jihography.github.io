@@ -74,16 +74,44 @@ Here are the classes I’ve taken and related materials.
 - 📄 [Midterm 2 (PDF)](materials/reg_mid2.pdf)
 - 📄 [Final (PDF)](materials/reg_fin.pdf)
 
+### 공간정보분석 1: 통계모형 (Spatial Analytics 1: Statistical Modeling)
+- Semester: Spring 2025   
+- 📄 [Final (PDF)](materials/geostat1_fin.pdf)
+
+### 시계열분석 및 실습 (Time Series Analysis and Lab)
+- Semester: Spring 2025   
+- 📄 [Final (PDF)](materials/time_series_fin.pdf)
+
 ### 계량경제학 (Econometrics)
 - Semester: Spring 2025   
 - 📄 [Midterm (PDF)](materials/econometrics_mid.pdf)
 - 📄 [Final (PDF)](materials/econometrics_fin.pdf)
 
-### 공간정보분석 1: 통계모형 (Spatial Analytics 1: Statistical Modeling)
-- Semester: Spring 2025   
-- 📄 [Midterm (PDF)](materials/econometrics_mid.pdf)
-- 📄 [Final (PDF)](materials/econometrics_fin.pdf)
+---
 
-### 시계열분석 및 실습 (Time Series Analysis and Lab)
-- Semester: Spring 2025   
-- 📄 [Final (PDF)](materials/geostat1_fin.pdf)
+Here are some selected reports I have written for courses and competitions.
+
+### 자연지리학개론 (Introduction to Physical Geography)
+- Semester: Spring 2023  
+- Title: [Assessing the Heat-Mitigation Effect and Locational Suitability of Shade Shelters in Gwanak-gu](materials/phygeo_project.pdf)
+
+### 자원론 (Geography of Resources)
+- Semester: Spring 2024  
+- Title: [The Geography of Boomtowns: Redistribution of Human Resources and Community Transformation Driven by the Shale Revolution](materials/resources_project.pdf)
+
+### 대학 글쓰기 2: 사회과학글쓰기 (College Writing 2: Writing in Social Sciences)
+- Semester: Spring 2024  
+- 🏆 3rd Place, 40th SNU Student Paper Competition
+- Title: [Emergence of Non-Human Creative System: Focusing on Gen AI Algorithm](materials/college_writing_fin.pdf)
+
+### 2024 다전공 수기 공모전 (2024 Multidisciplinary Major Essay Contest)
+- 🏆 2nd Place
+- Title: [From Geography to Spatial Data Science: What I Learned as My Horizons Broadened](materials/major_essay.pdf)
+
+### 공간데이터분석과 지리교육 (Spatial Data Analysis and Geography Education)
+- Semester: Spring 2025
+- Title: [Analyzing the Spatial Heterogeneity of Fertility Determinants Using Similarity Geo-graphically Weighted Regression (SGWR)](materials/sda_sgwr.pdf)
+
+### 학생자율연구 1: 탐구 (Undergraduate Independent Research: Inquiry)
+- Semester: Summer 2025
+- Title: [Effects of the MAUP on Regression Analysis Under Different Levelsof Spatial Autocorrelation and Cross Correlation](materials/maup.pdf)
