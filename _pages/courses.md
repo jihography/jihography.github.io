@@ -15,10 +15,11 @@ Here are the classes I’ve taken and related materials.
 ---
 
 ### 인구지리학개론 (Introduction to Population Geography)
-- Semester: Spring 2024  
+- Semester: Spring 2023  
 - 📄 [Midterm (PDF)](materials/popgeo_mid.pdf)
 - 📄 [Final (PDF)](materials/popgeo_fin.pdf)
 
-### 공간통계학 (Spatial Statistics)
-- Semester: Fall 2024  
-- 📄 [Spatial MAUP Simulation](materials/spatial_stats_maup.pdf)
+### 거시경제이론 (Macroeconomics)
+- Semester: Summer 2023  
+- 📄 [Midterm (PDF)](materials/macroeconomics_mid.pdf)
+- 📄 [Final (PDF)](materials/macroeconomics_fin.pdf)
