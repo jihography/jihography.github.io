@@ -88,7 +88,7 @@ Here are the classes I’ve taken and related materials.
 - 📄 [Final (PDF)](materials/econometrics_fin.pdf)
 
 ### 전산통계 및 실험 (Statistical Computing and Lab)
-- Semester: Spring 2025   
+- Semester: Fall 2025   
 - 📄 [Midterm (PDF)](materials/compstat_mid.pdf)
 
 ---
