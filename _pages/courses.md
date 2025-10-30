@@ -91,6 +91,14 @@ Here are the classes I’ve taken and related materials.
 - Semester: Fall 2025   
 - 📄 [Midterm (PDF)](materials/compstat_mid.pdf)
 
+### 수리통계 2 (Mathematical Statistics 2)
+- Semester: Fall 2025   
+- 📄 [Midterm (PDF)](materials/math_stat2_mid.pdf)
+
+### 공간정보분석 3: 시공간 데이터사이언스 (Spatial Analytics 3: Spatiotemporal Data Science)
+- Semester: Fall 2025   
+- 📄 [Midterm (PDF)](materials/sds.pdf)
+
 ---
 
 Here are some selected reports I have written for courses and competitions.
