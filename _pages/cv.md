@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please find the attached file: 📄 [CV_Jiho_Kwak (last updated: 2025 July)](materials/cv_jihokwak.pdf)
+Please find the attached file: 📄 [CV_Jiho_Kwak (last updated: 2025 Oct)](materials/Jiho_Kwak_CV.pdf)
