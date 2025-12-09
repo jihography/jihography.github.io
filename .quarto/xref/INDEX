@@ -1,0 +1,17 @@
+{
+  "markdown_generator/readme.md": {
+    "readme.html": "87d8a588"
+  },
+  "markdown_generator/OrcidToBib.ipynb": {
+    "OrcidToBib.html": "0d03b2ae"
+  },
+  "talkmap_out.ipynb": {
+    "talkmap_out.html": "9ac60870"
+  },
+  "my_presentation/e9_presentation.qmd": {
+    "e9_presentation.html": "6305b0ff"
+  },
+  "CONTRIBUTING.md": {
+    "CONTRIBUTING.html": "aa818006"
+  }
+}
