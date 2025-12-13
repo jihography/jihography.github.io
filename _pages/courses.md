@@ -90,6 +90,7 @@ Here are the classes I’ve taken and related materials.
 ### 전산통계 및 실험 (Statistical Computing and Lab)
 - Semester: Fall 2025   
 - 📄 [Midterm (PDF)](materials/compstat_mid.pdf)
+- 📄 [Final (PDF)](materials/compstat_fin.pdf)
 
 ### 수리통계 2 (Mathematical Statistics 2)
 - Semester: Fall 2025   
