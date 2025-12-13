@@ -22,7 +22,7 @@ repository               : "jihography/jihography.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Jiho Kwak"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student @ SNU, Majoring in Geography and Statistics"
