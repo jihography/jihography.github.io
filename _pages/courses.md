@@ -14,7 +14,7 @@ Here are the classes I’ve taken and related materials.
 
 ---
 
-## Geography
+## 🌏 Geography
 
 ### 인구지리학개론 (Population Geography)
 - Semester: Spring 2023  
@@ -62,7 +62,7 @@ Here are the classes I’ve taken and related materials.
 
 ---
 
-## Statistics, Mathematics
+## 📈 Statistics, Mathematics
 
 ### 선형대수학 1 (Linear Algebra 1)
 - Semester: Spring 2023  
@@ -104,7 +104,7 @@ Here are the classes I’ve taken and related materials.
 
 ---
 
-## Economics
+## 📊 Economics
 
 ### 거시경제이론 (Macroeconomics)
 - Semester: Summer 2023  
@@ -117,6 +117,8 @@ Here are the classes I’ve taken and related materials.
 - 📄 [Final (PDF)](materials/econometrics_fin.pdf)
 
 ---
+
+## 📝 Reports & Papers
 
 Here are some selected reports I have written for courses and competitions.
 
