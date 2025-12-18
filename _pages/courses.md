@@ -146,3 +146,7 @@ Here are some selected reports I have written for courses and competitions.
 ### 학생자율연구 1: 탐구 (Undergraduate Independent Research: Inquiry)
 - Semester: Summer 2025
 - Title: [Effects of the MAUP on Regression Analysis Under Different Levelsof Spatial Autocorrelation and Cross Correlation](materials/maup.pdf)
+
+### 학부생을 위한 사회과학 Research Grant (Social Science Research Grant for Undergraduates)
+- Semester: Fall 2025
+- Title: [Assessing the Population Effects of Public Institution Relocation through Spatial Vertical Regression](materials/innocity.pdf)
