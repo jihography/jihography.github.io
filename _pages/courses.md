@@ -5,6 +5,10 @@ permalink: /courses/
 author_profile: true
 redirect_from:
   - /resume
+toc: true
+toc_sticky: true        # 스크롤해도 고정(선택)
+toc_label: "On this page"  # 제목(선택)
+toc_icon: "list"           # 아이콘(선택)
 ---
 
 {% include base_path %}
