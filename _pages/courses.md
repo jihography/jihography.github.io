@@ -154,3 +154,7 @@ Here are some selected reports I have written for courses and competitions.
 ### 학부생을 위한 사회과학 Research Grant (Social Science Research Grant for Undergraduates)
 - Semester: Fall 2025
 - Title: [Assessing the Population Effects of Public Institution Relocation through Spatial Vertical Regression](materials/innocity.pdf)
+
+### 공간정보분석 3: 시공간 데이터사이언스 (Spatial Analytics 3: Spatio-Temporal Data Science)
+- Semester: Fall 2025
+- Title: [Spatiotemporal Bayesian Hierarchical Modeling of Panel Data on E-9 Migrant Workers](materials/geostat3_e9.pdf)
