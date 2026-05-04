@@ -1,27 +1,42 @@
 ---
-title: "프로젝트 제목을 여기에"
-excerpt: "프로젝트 한 줄 요약. 연구 배경, 방법론, 결과를 간략히 서술합니다.<br/><img src='/images/500x300.png'>"
+title: "Estimating Population Effects of an Innovation City on Its Host and Surrounding Areas Using Spatial Vertical Regression: A Case Study of Gyeongbuk Gimcheon Innovation City"
+excerpt: "Causal estimation of the population effects of the Gyeongbuk Gimcheon Innovation City on its host neighborhood and surrounding eup/myeon/dong units using Spatial Vertical Regression (SVR). Empirically confirms rapid population growth at the site alongside hollowing-out of the legacy urban core.<br/><img src='/images/post_2013.png'>"
 collection: portfolio
-date: 2025-01-01
+date: 2025-12-01
 tags:
-  - GIS
-  - Spatial Analysis
+  - Spatial Causal Inference
+  - Synthetic Control Method
+  - Bayesian Statistics
+  - Demography
+  - Regional Policy
 ---
 
 ## Overview
 
-연구 배경과 목적을 서술합니다.
+South Korea's Innovation City program relocated public institutions from the Seoul metropolitan area to provincial cities to counter regional population decline and over-concentration. Despite this effort, eight of ten Innovation Cities failed to meet their target populations as of 2021, and critics have pointed to a "straw effect" whereby new developments draw residents away from surrounding areas rather than attracting migrants from the capital region. This study takes Gimcheon Innovation City in North Gyeongsang Province as a case and empirically estimates the causal impact of its construction on both the host neighborhood (Yulgok-dong) and adjacent eup/myeon/dong units over the period 1997–2024, treating 2013—when public institution relocation began—as the intervention year.
 
 ## Methods
 
-사용한 방법론(GIS, 통계 모델 등)을 서술합니다.
+The primary method is **Spatial Vertical Regression (SVR)**, a variant of the Synthetic Control Method (SCM) proposed by Grossi et al. (2025) that explicitly models spatial dependence across multiple adjacent treated units via Bayesian priors—specifically, Gaussian process priors with a squared exponential kernel placed on both the coefficient vectors and the error terms.
+
+- **Treatment group design**: Five mutually exclusive and collectively exhaustive (MECE) treated units—the core neighborhood (Yulgok-dong) plus four concentric distance bands at 5 / 10 / 15 / 20 km radii
+- **Donor pool construction**: Units from 16 municipalities excluded from the six counties containing treated areas (to prevent interference), with representative eup/myeon/dong selected by pre-treatment population density percentile
+- **Posterior inference**: Stan HMC (4 chains, 4,000 iterations, 2,000 warm-up); uncertainty reported as 95% credible intervals
+- **Comparison models**: OLS, Bayesian Vertical Regression (BVR), and Event-Study Difference-in-Differences (DiD)
+- **Data**: Resident registration population at the eup/myeon/dong level (Ministry of the Interior and Safety); administrative boundary changes (renaming, mergers, splits) resolved prior to analysis
 
 ## Results
 
-주요 결과를 서술합니다.
+- **Yulgok-dong (direct treatment)**: Population surged from roughly 7,000 to over 29,000 following the intervention (posterior median: +34.3σ), though the pace of growth slowed noticeably after 2020.
+- **0–5 km band (legacy urban core)**: Statistically significant population decline (median: −2.24σ; 95% CI: −4.26, −0.61), consistent with hollowing-out of the traditional downtown as residents relocated to the new development.
+- **10–15 km bands**: Credible intervals include zero, precluding firm conclusions, though a weak negative tendency is observed.
+- **15–20 km band**: Significant population increase (median: +3.30σ; 95% CI: 1.42, 5.10), though confounding from the nearby Gumi National Industrial Complex Phase 4 cannot be ruled out.
+- **Model comparison (MAE / RMSE / Mean CI Width)**: SVR outperforms both OLS and BVR on MAE and produces substantially narrower credible intervals, demonstrating that incorporating spatial structure improves estimation efficiency—particularly under a short pre-treatment window.
 
 ## Tools & Skills
 
-- Python / R
-- ArcGIS / QGIS
-- 기타 사용 도구
+- **Languages**: R (Stan / rstan, tidyverse, sf)
+- **Methods**: Synthetic Control Method (SCM), Spatial Vertical Regression (SVR), Bayesian Vertical Regression (BVR), Event-Study DiD
+- **Spatial Analysis**: Eup/myeon/dong-level GIS (concentric band design, population-density-based donor selection)
+- **Data Wrangling**: Administrative boundary change reconciliation (renaming, mergers, splits) across 28 years
+- **Visualization**: ggplot2
