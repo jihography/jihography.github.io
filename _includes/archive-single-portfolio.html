@@ -1,0 +1,50 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% assign teaser = post.header.teaser %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="portfolio-wide__item">
+  <article class="portfolio-wide__card" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div class="portfolio-wide__content">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+
+      {% if post.tags and post.tags.size > 0 %}
+      <p class="portfolio-wide__tags">
+        {% for tag in post.tags %}
+          <span class="portfolio-wide__tag">{{ tag }}</span>
+        {% endfor %}
+      </p>
+      {% endif %}
+
+      {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      {% endif %}
+
+      {% if post.date %}
+      <p class="page__date">
+        <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time>
+      </p>
+      {% endif %}
+    </div>
+
+    {% if teaser %}
+    <div class="portfolio-wide__figure">
+      <img src="{{ teaser }}" alt="{{ title }}" itemprop="image">
+    </div>
+    {% endif %}
+
+  </article>
+</div>

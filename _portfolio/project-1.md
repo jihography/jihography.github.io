@@ -1,8 +1,10 @@
 ---
 title: "Estimating Population Effects of an Innovation City on Its Host and Surrounding Areas Using Spatial Vertical Regression: A Case Study of Gyeongbuk Gimcheon Innovation City"
-excerpt: "Causal estimation of the population effects of the Gyeongbuk Gimcheon Innovation City on its host neighborhood and surrounding eup/myeon/dong units using Spatial Vertical Regression (SVR). Empirically confirms rapid population growth at the site alongside hollowing-out of the legacy urban core.<br/><img src='/images/post_2013.png'>"
+excerpt: "Causal estimation of the population effects of the Gyeongbuk Gimcheon Innovation City on its host neighborhood and surrounding eup/myeon/dong units using Spatial Vertical Regression (SVR). Empirically confirms rapid population growth at the site alongside hollowing-out of the legacy urban core."
 collection: portfolio
 date: 2025-12-01
+header:
+  teaser: /images/post_2013.png
 tags:
   - Spatial Causal Inference
   - Synthetic Control Method
