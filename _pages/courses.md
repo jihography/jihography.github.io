@@ -5,9 +5,9 @@ permalink: /courses/
 author_profile: true
 redirect_from:
   - /resume
-sidebar:
-  title: "Contents"
-  nav: courses-toc
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
 ---
 
 {% include base_path %}

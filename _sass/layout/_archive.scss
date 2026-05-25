@@ -1,4 +1,56 @@
 /* ==========================================================================
+   RIGHT-SIDE TOC
+   ========================================================================== */
+
+.page__toc {
+  display: none;
+
+  @media (min-width: 1280px) {
+    display: block;
+    position: fixed;
+    right: 1.5rem;
+    top: 5rem;
+    width: 200px;
+    max-height: calc(100vh - 7rem);
+    overflow-y: auto;
+    font-size: $type-size-7;
+  }
+}
+
+.page__toc-title {
+  font-size: $type-size-6;
+  margin: 0 0 0.5em;
+  color: var(--global-text-color);
+
+  i { margin-right: 0.3em; }
+}
+
+#page-toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 2px solid var(--global-border-color);
+
+  li {
+    padding: 0.15em 0 0.15em 0.8em;
+
+    &.toc__sub-item {
+      padding-left: 1.6em;
+      font-size: $type-size-7;
+    }
+
+    a {
+      color: var(--global-text-color-light);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-link-color);
+      }
+    }
+  }
+}
+
+/* ==========================================================================
    PORTFOLIO WIDE LAYOUT
    ========================================================================== */
 
