@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 toc: true
-toc_label: "On this page"
-toc_icon: "list"
+toc_sticky: true        # 스크롤해도 고정(선택)
+toc_label: "On this page"  # 제목(선택)
+toc_icon: "list"           # 아이콘(선택)
 ---
 
 {% include base_path %}
@@ -115,7 +116,7 @@ Here are the classes I’ve taken and related materials.
 
 ### 데이터사이언스를 위한 인과 추론 (Causal Inference for Data Science)
 - Semester: Spring 2026
-- 📄 [Midterm (PDF)](materials/gsds_causal_inference_mid.pdf)
+- 📄 [Midterm (PDF)](materials/GSDS_causal_inference_mid.pdf)
 
 ---
 

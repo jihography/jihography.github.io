@@ -17,18 +17,6 @@ main:
   - title: "Projects"
     url: /projects/
 
-courses-toc:
-  - title: "Contents"
-    children:
-      - title: "Geography"
-        url: "#geography"
-      - title: "Statistics & Math"
-        url: "#statistics-mathematics-data-science"
-      - title: "Economics"
-        url: "#economics"
-      - title: "Reports & Papers"
-        url: "#reports--papers"
-
   - title: "Misc."
     url: /courses/
     
