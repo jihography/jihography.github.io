@@ -116,7 +116,7 @@ Here are the classes I’ve taken and related materials.
 
 ### 데이터사이언스를 위한 인과 추론 (Causal Inference for Data Science)
 - Semester: Spring 2026
-- 📄 [Midterm (PDF)](materials/GSDS_causal_inference_mid.pdf)
+- 📄 [Midterm (PDF)](materials/gsds_causal_inference_mid.pdf)
 
 ---
 
