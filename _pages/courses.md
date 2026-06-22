@@ -98,8 +98,8 @@ Here are the classes I’ve taken and related materials.
 
 ### 전산통계 및 실험 (Statistical Computing and Lab)
 - Semester: Fall 2025   
-- 📄 [Midterm (PDF)](materials/compstat_mid.pdf)
-- 📄 [Final (PDF)](materials/compstat_fin.pdf)
+- 📄 [Midterm (PDF)](materials/statcomp_mid.pdf)
+- 📄 [Final (PDF)](materials/statcomp_fin.pdf)
 
 ### 수리통계 2 (Mathematical Statistics 2)
 - Semester: Fall 2025   
@@ -109,10 +109,15 @@ Here are the classes I’ve taken and related materials.
 ### 통계적 기계학습 (Statistical Machine Learning)
 - Semester: Spring 2026
 - 📄 [Midterm (PDF)](materials/statML_mid.pdf)
+- 📄 [Final (PDF)](materials/statML_fin.pdf)
+
+### 통계계산 (Computational Statistics)
+- Semester: Spring 2026
+- 📄 [Final (URL)](https://heavenly-lion-111.notion.site/compstat_fin.pdf)
 
 ### 데이터마이닝 방법 및 실습 (Data Mining Methods and Lab)
 - Semester: Spring 2026
-- 📄 [Final (URL)](https://heavenly-lion-111.notion.site/datamining-final)
+- 📄 [Final (URL)](https://heavenly-lion-111.notion.site/datamining_fin.pdf)
 
 ### 데이터사이언스를 위한 인과 추론 (Causal Inference for Data Science)
 - Semester: Spring 2026
