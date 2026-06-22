@@ -113,11 +113,11 @@ Here are the classes I’ve taken and related materials.
 
 ### 통계계산 (Computational Statistics)
 - Semester: Spring 2026
-- 📄 [Final (URL)](https://heavenly-lion-111.notion.site/compstat_fin.pdf)
+- 📄 [Final (URL)](materials/compstat_fin.pdf)
 
 ### 데이터마이닝 방법 및 실습 (Data Mining Methods and Lab)
 - Semester: Spring 2026
-- 📄 [Final (URL)](https://heavenly-lion-111.notion.site/datamining_fin.pdf)
+- 📄 [Final (URL)](materials/datamining_fin.pdf)
 
 ### 데이터사이언스를 위한 인과 추론 (Causal Inference for Data Science)
 - Semester: Spring 2026
