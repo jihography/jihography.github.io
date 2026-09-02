@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Toward Spatial Causal Inference"
+title: "Spatial Data Science & Causal Inference"
 author_profile: true
 redirect_from: 
   - /about/
