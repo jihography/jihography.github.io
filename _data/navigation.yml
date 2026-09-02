@@ -17,8 +17,9 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Misc."
-    url: /courses/
+  # Misc. hidden from the menu — page still reachable at /courses/ by direct URL
+  # - title: "Misc."
+  #   url: /courses/
     
   - title: "CV"
     url: /cv/

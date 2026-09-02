@@ -1,6 +1,6 @@
 ---
 title: "Estimating Population Effects of an Innovation City on Its Host and Surrounding Areas Using Spatial Vertical Regression: A Case Study of Gyeongbuk Gimcheon Innovation City"
-excerpt: "Causal estimation of the population effects of the Gyeongbuk Gimcheon Innovation City on its host neighborhood and surrounding eup/myeon/dong units using Spatial Vertical Regression (SVR). Empirically confirms rapid population growth at the site alongside hollowing-out of the legacy urban core."
+excerpt: "South Korea's Innovation City program relocated public institutions to provincial cities to counter over-concentration in the capital region, yet most host cities have missed their population targets amid concerns of a \"straw effect\" on surrounding areas. This study estimates the causal population impact of Gimcheon Innovation City on its host neighborhood and four concentric distance bands (5–20 km) over 1997–2024 using Spatial Vertical Regression (SVR), a Bayesian variant of the synthetic control method that models spatial dependence across adjacent treated units with Gaussian process priors. The host neighborhood's population surged from about 7,000 to over 29,000, while the legacy urban core within 5 km experienced a significant decline—consistent with hollowing-out—and the 15–20 km band saw significant growth. SVR outperformed OLS and Bayesian Vertical Regression, yielding lower prediction error and substantially narrower credible intervals under a short pre-treatment window."
 collection: portfolio
 date: 2025-12-01
 header:

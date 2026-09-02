@@ -3,6 +3,8 @@ layout: archive
 title: "Courses Materials"
 permalink: /courses/
 author_profile: true
+sitemap: false
+noindex: true
 redirect_from:
   - /resume
 toc: true
