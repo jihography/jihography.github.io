@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Spatial Data Science & Causal Inference"
+seo_title: "Jiho Kwak - Geography, Seoul National University"
+description: "Jiho Kwak is a Master's student in Geography at Seoul National University working on spatial data science, spatial demography, and causal inference for spatiotemporal data."
 author_profile: true
 redirect_from: 
   - /about/

@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Jiho Kwak"
 title_separator          : "-"
 name                     : &name "Jiho Kwak"
-description              : &description "personal description"
+description              : &description "Personal website of Jiho Kwak, Master's student in Geography at Seoul National University working on spatial data science and causal inference."
 url                      : https://jihography.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jihography/jihography.github.io"
@@ -126,7 +126,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "iVvRTAATDMQlOECLYTUh7ywzxroUfljbsDQLA6tIdDc"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
